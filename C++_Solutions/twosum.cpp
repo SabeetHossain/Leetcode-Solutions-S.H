@@ -1,5 +1,5 @@
 // Author: Sabeet Hossain
-// Date: January 7, 2023
+// Date: January 7, 2024
 // Difficulty: easy
 
 //time:  O(n)
